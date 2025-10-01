@@ -18,7 +18,7 @@ No external dependencies required (uses only Python standard library)
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/personal-expense-tracker.git
+bashgit clone https://github.com/Butterfly132/personal-expense-tracker.git
 cd personal-expense-tracker
 
 Run the application:
